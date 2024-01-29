@@ -1,0 +1,14 @@
+import blender from "./assets/blender.png";
+import CenterTable from "./assets/center table.png";
+import DishWasher from "./assets/dish washer.png";
+import FlowerVase from "./assets/flower vase.png";
+import Refrigerator from "./assets/refrigerator.png";
+import Sofa from "./assets/sofa.png";
+import TelevisionSet from "./assets/television set.png";
+import WallClock from "./assets/wall clock.png";
+import WashingMachine from "./assets/washing machine.png";
+import CoffeeMug from "./assets/coffee mug.png";
+import RiceCooker from "./assets/rice cooker.png";
+import Shelf from "./assets/shelf.png";
+const cartItems = [];
+export default cartItems;
